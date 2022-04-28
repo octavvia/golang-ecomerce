@@ -193,3 +193,6 @@ response:
 
 - **Instantly Buying the Products(GET REQUEST)**
   http://localhost:8000?userid=xxuser_idxxx&pid=xxxxproduct_idxxxx
+  
+  
+  tutorial link :https://youtu.be/ry0uQ66n5aE
