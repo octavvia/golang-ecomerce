@@ -1,4 +1,4 @@
-##**Ecommerce With Golang Project By Akhil Sharma**
+##**Ecommerce With Golang Project By Akhil Sharma tutorial**
 **Code-Along video series on Youtube**
 
 ```bash
@@ -13,10 +13,10 @@ http://localhost:8000/users/signup
 
 ```json
 {
-  "first_name": "Akhil",
-  "last_name": "Sharma",
-  "email": "akhil@gmail.com",
-  "password": "akhilsharma",
+  "first_name": "octavia",
+  "last_name": "viaoctavia",
+  "email": "octobervna@gmail.com",
+  "password": "viaoctavia",
   "phone": "+4534545435"
 }
 ```
@@ -29,8 +29,8 @@ Response :"Successfully Signed Up!!"
 
 ```json
 {
-  "email": "akhil@gmail.com",
-  "password": "akhilsharma"
+  "email": "octobervna@gmail.com",
+  "password": "viaaulia"
 }
 ```
 
@@ -39,10 +39,10 @@ response will be like this
 ```json
 {
   "_id": "***********************",
-  "first_name": "akhil",
-  "last_name": "sharma",
+  "first_name": "via",
+  "last_name": "octavia",
   "password": "$2a$14$UIYjkTfnFnhg4qhIfhtYnuK9qsBQifPKgu/WPZAYBaaN17j0eTQZa",
-  "email": "akhil@gmail.com",
+  "email": "octobervna@gmail.com",
   "phone": "+4534545435",
   "token": "eyJc0Bwcm90b25vbWFpbC5jb20iLCJGaXJzdF9OYW1lIjoiam9zZXBoIiwiTGFzdF9OYW1lIjoiaGVybWlzIiwiVWlkIjoiNjE2MTRmNTM5ZjI5YmU5NDJiZDlkZjhlIiwiZXhwIjoxNjMzODUzNjUxfQ.NbcpVtPLJJqRF44OLwoanynoejsjdJb5_v2qB41SmB8",
   "Refresh_Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJFbWFpbCI6IiIsIkZpcnLCJVaWQiOiIiLCJleHAiOjE2MzQzNzIwNTF9.ocpU8-0gCJsejmCeeEiL8DXhFcZsW7Z3OCN34HgIf2c",
