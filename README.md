@@ -1,6 +1,3 @@
-##**Ecommerce With Golang Project By Akhil Sharma tutorial**
-**Code-Along video series on Youtube**
-
 ```bash
 # You can start the project with below commands
 docker-compose up -d
