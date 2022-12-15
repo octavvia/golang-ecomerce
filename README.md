@@ -34,7 +34,7 @@ Response :"Successfully Signed Up!!"
 
 ```json
 {
-  "email": "octobervna@gmail.com",
+  "email": "hellovviia@gmail.com",
   "password": "viaaulia"
 }
 ```
