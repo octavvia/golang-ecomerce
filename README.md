@@ -20,9 +20,9 @@ http://localhost:8000/users/signup
 {
   "first_name": "octavia",
   "last_name": "viaoctavia",
-  "email": "octobervna@gmail.com",
+  "email": "hellovviia@gmail.com",
   "password": "viaoctavia",
-  "phone"+6289529122055"
+  "phone": "+6289529122055"
 }
 ```
 
@@ -47,8 +47,8 @@ response will be like this
   "first_name": "via",
   "last_name": "octavia",
   "password": "$2a$14$UIYjkTfnFnhg4qhIfhtYnuK9qsBQifPKgu/WPZAYBaaN17j0eTQZa",
-  "email": "octobervna@gmail.com",
-  "phone": "+4534545435",
+  "email": "hellovviia@gmail.com",
+  "phone": "+6289529122055",
   "token": "eyJc0Bwcm90b25vbWFpbC5jb20iLCJGaXJzdF9OYW1lIjoiam9zZXBoIiwiTGFzdF9OYW1lIjoiaGVybWlzIiwiVWlkIjoiNjE2MTRmNTM5ZjI5YmU5NDJiZDlkZjhlIiwiZXhwIjoxNjMzODUzNjUxfQ.NbcpVtPLJJqRF44OLwoanynoejsjdJb5_v2qB41SmB8",
   "Refresh_Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJFbWFpbCI6IiIsIkZpcnLCJVaWQiOiIiLCJleHAiOjE2MzQzNzIwNTF9.ocpU8-0gCJsejmCeeEiL8DXhFcZsW7Z3OCN34HgIf2c",
   "created_at": "2022-04-09T08:14:11Z",
