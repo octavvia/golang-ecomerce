@@ -22,7 +22,7 @@ http://localhost:8000/users/signup
   "last_name": "viaoctavia",
   "email": "octobervna@gmail.com",
   "password": "viaoctavia",
-  "phone": "+4534545435"
+  "phone"+6289529122055"
 }
 ```
 
