@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"time"
 
-	"go-ecommerce-project-master/database"
+	"github.com/vviia/golang-ecomerce/database"
 
-	"go-ecommerce-project-master/models"
-	generate "go-ecommerce-project-master/tokens"
+	"github.com/vviia/golang-ecomerce/models"
+	generate "github.com/vviia/golang-ecomerce/tokens"
 
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator/v10"

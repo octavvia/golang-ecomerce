@@ -1,4 +1,4 @@
-module github.com/akhil/ecommerce-yt
+module github.com/vviia/golang-ecomerce
 
 go 1.16
 

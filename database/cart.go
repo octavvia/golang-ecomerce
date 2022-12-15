@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"go-ecommerce-project-master/models"
+	"github.com/vviia/golang-ecomerce/models"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"

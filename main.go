@@ -4,10 +4,10 @@ import (
 	"log"
 	"os"
 
-	"go-ecommerce-project-master/controllers"
-	"go-ecommerce-project-master/database"
-	"go-ecommerce-project-master/middleware"
-	"go-ecommerce-project-master/routes"
+	"github.com/vviia/golang-ecomerce/controllers"
+	"github.com/vviia/golang-ecomerce/database"
+	"github.com/vviia/golang-ecomerce/middleware"
+	"github.com/vviia/golang-ecomerce/routes"
 
 	"github.com/gin-gonic/gin"
 )

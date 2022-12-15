@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"time"
 
-	"go-ecommerce-project-master/database"
-	"go-ecommerce-project-master/models"
+	"github.com/vviia/golang-ecomerce/database"
+	"github.com/vviia/golang-ecomerce/models"
 
 	"github.com/gin-gonic/gin"
 	"go.mongodb.org/mongo-driver/bson"
@@ -79,9 +79,9 @@ func (app *Application) AddToCart() gin.HandlerFunc {
 	}
 }
 
-//function to remove item from cart
-//GET Request
-//http://localhost:8000/addtocart?id=xxxproduct_id&normal=xxxxxxuser_idxxxxxx
+// function to remove item from cart
+// GET Request
+// http://localhost:8000/addtocart?id=xxxproduct_id&normal=xxxxxxuser_idxxxxxx
 func (app *Application) RemoveItem() gin.HandlerFunc {
 	return func(c *gin.Context) {
 		productQueryID := c.Query("id")
@@ -115,11 +115,11 @@ func (app *Application) RemoveItem() gin.HandlerFunc {
 	}
 }
 
-//function to get all items in the cart and total price
-//GET request
-//http://localhost:8000/listcart?id=xxxxxxuser_idxxxxxxxxxx
-//help to add dependency injection
-//Any nice way to group together this json response?
+// function to get all items in the cart and total price
+// GET request
+// http://localhost:8000/listcart?id=xxxxxxuser_idxxxxxxxxxx
+// help to add dependency injection
+// Any nice way to group together this json response?
 func GetItemFromCart() gin.HandlerFunc {
 	return func(c *gin.Context) {
 		user_id := c.Query("id")

@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"go-ecommerce-project-master/controllers"
+	"github.com/vviia/golang-ecomerce/controllers"
 
 	"github.com/gin-gonic/gin"
 )
