@@ -1,3 +1,11 @@
+### <p align=center> simple ecommerce </p>
+___________________________________________________________________________
+about:
+
+This project is a modification of a popular YouTube application, built using the Go programming language. I have added new features and improved the user experience, using the Gin Gonic framework for fast and efficient routing. Using MongoDB as a database allows one to store and retrieve large amounts of data quickly and easily. Postman is the tool of choice for API testing, ensuring that this application is reliable and consistent. Overall, this project is a great way to learn and expand my skills in Golang and web development.
+_____________________________________________________________________________
+
+
 ```bash
 # You can start the project with below commands
 docker-compose up -d
@@ -191,5 +199,7 @@ response:
 - **Instantly Buying the Products(GET REQUEST)**
   http://localhost:8000?userid=xxuser_idxxx&pid=xxxxproduct_idxxxx
   
+  
+  references :
   
   tutorial link :https://youtu.be/ry0uQ66n5aE
