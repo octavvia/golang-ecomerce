@@ -20,9 +20,9 @@ http://localhost:8000/users/signup
 {
   "first_name": "octavia",
   "last_name": "viaoctavia",
-  "email": "hellovviia@gmail.com",
+  "email": "mail@gmail.com",
   "password": "viaoctavia",
-  "phone": "+6289529122055"
+  "phone": "+12345678"
 }
 ```
 
